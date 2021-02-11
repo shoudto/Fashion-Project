@@ -13,5 +13,5 @@ And then execute:
 
     a live server
 
-## Usage
-What this application does is provide three sounds a kick sound, snare sound, and hihat sound. You're able to change the type of sounds, as well as mute the sound or stop the application. Your able to mix sound and create original 
+## Knowledge
+What this application does is provide Front-End experience. You're able to scroll and on the bottom of the page you can click explore it will provide a nice animation to the info page. On the upper right hand corner there is a tab function where it will show a nice animation to the social media page. 
