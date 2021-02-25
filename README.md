@@ -1,4 +1,4 @@
-# Travel-Fashion-Project
+# Fashion-Project
 I have created a Travel-Fashion Front-End Design using Javascript, HTML, and CSS.
 
 ## Installation
