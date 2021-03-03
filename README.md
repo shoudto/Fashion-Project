@@ -14,4 +14,4 @@ And then execute:
     a live server
 
 ## Knowledge
-What this application does is provide Front-End experience. You're able to scroll and on the bottom of the page you can click explore it will provide a nice animation to the info page. On the upper right hand corner there is a tab function where it will show a nice animation to the social media page. 
+This application is an example of a Front-End experience. You are able to scroll through the page vertically and on the bottom of the page you can click "Explore" to see a nice animation to the info page. On the upper right hand corner there is a tab function where it will show a nice animation to the social media page. 
